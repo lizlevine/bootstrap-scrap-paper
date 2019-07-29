@@ -7,9 +7,12 @@ h1, h2, p {
     margin: 10px;
     padding: 40px;
     border: 20px; */
-
 }
 
+p {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
 .div1  {
     padding: 20px;
 
